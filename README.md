@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
    <p align="left"> <img src="https://github.com/Hellal1997/final-project-DEPI/blob/b077e0a1572cb6172fcb35da036c71251f41fb1f/depiEN.af7b4f3966c53eedf4b4.png"/> </p>
 
 
@@ -86,4 +83,3 @@ Deliverables:
 • Fully refined CI/CD pipeline in Jenkins.
 • Documented CI/CD pipeline process.
 • Final deployment verified and tested on the cloud.
->>>>>>> main
