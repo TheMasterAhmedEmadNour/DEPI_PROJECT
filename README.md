@@ -1,11 +1,36 @@
-   <p align="left"> <img src="https://github.com/Hellal1997/final-project-DEPI/blob/b077e0a1572cb6172fcb35da036c71251f41fb1f/depiEN.af7b4f3966c53eedf4b4.png"/> </p>
+<p align="center">
+  <a href="" rel="noopener">
+ <<img src="https://github.com/Hellal1997/final-project-DEPI/blob/b077e0a1572cb6172fcb35da036c71251f41fb1f/depiEN.af7b4f3966c53eedf4b4.png"/> </a>
+</p>
+
+<h3 align="center">DevOps Engineer,Project: Automated Deployment Pipeline with Jenkins and Docker</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
+<p align="center"> project build infrastructure from A to Z by automation code
+    <br> 
+</p>
+
+## 📝 Table of Contents
+
+- [Objective](#about)
+- [Week 1: Initial Setup & Planning](#demo)
+- [Week 2: Jenkins & CI Integration](#working)
+- [Week 3: Docker& Deployment](#usage)
+- [Week 4: CI/CD Refinement & Final Testing](#getting_started)
 
 
-   <h1 align="center">DevOps Engineer,Project: Automated Deployment Pipeline with Jenkins and Docker</h1>
-
-
-________________________________________________________________________________________________________________________________________________________________________________________________________________
-
+## 🧐 objective <a name = "about"></a>
 
 Objective: Implement an automated CI/CD pipeline using Jenkins, Docker,
 and Ansible.
@@ -16,9 +41,9 @@ management. Implement automated testing and deployment to a cloud
 environment.
 Technologies to use: Docker, Kubernetes, Jenkins, Ansible, CI/CD, Cloud
 Deployment.
-________________________________________________________________________________________________________________________________________________________________________________________________________________
-   <h1 align="center">Week 1: Initial Setup & Planning</h1>
-   
+
+##  Week 1: Initial Setup & Planning<a name = "demo"></a>
+
 Tasks:
 • Install Jenkins and Docker: Set up the Jenkins server and Docker on local or cloud
 environments.
@@ -33,8 +58,7 @@ Deliverables:
 • Basic Ansible setup.
 • CI/CD pipeline plan documented.
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-   <h1 align="center">Week 2: Jenkins & CI Integration</h1>
+## 💭 Week 2: Jenkins & CI Integration <a name = "working"></a>
 
 Tasks:
 • Create Jenkins Jobs: Configure Jenkins to build the Dockerized application.
@@ -51,9 +75,7 @@ Deliverables:
 Automated testing included in the pipeline.
 Notifications configured for pipeline updates.
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-   <h1 align="center">Week 3: Docker& Deployment</h1>
-
+## 🎈 Week 3: Docker& Deployment <a name = "usage"></a>
 Tasks:
 • Integrate Docker Hub or private registry: Push Docker images to Docker Hub or a
 private registry.
@@ -66,9 +88,10 @@ Deliverables:
 • Ansible playbooks ready and tested.
 • Successful deployment of the application to a cloud server.
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-   <h1 align="center">Week 4: CI/CD Refinement & Final Testing</h1>
-   
+
+
+## 🏁 Week 4: CI/CD Refinement & Final Testing <a name = "getting_started"></a>
+
 Tasks:
 • Kubernetes Integration: Optional task — configure Kubernetes to orchestrate the
 deployment of Docker containers if desired.
@@ -83,3 +106,5 @@ Deliverables:
 • Fully refined CI/CD pipeline in Jenkins.
 • Documented CI/CD pipeline process.
 • Final deployment verified and tested on the cloud.
+
+
